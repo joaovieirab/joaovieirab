@@ -7,6 +7,8 @@
 ![joaovieirab GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovieirab&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieirab&langs_count=8&theme=dracula)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67a25f50f863343482f2fded?variant=dracula)](https://roadmap.sh)
 ### Tecnologias  no meu dia  
 
 <div style="display: inline_block"><br/>
