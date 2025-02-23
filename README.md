@@ -20,7 +20,7 @@ Apaixonado por programação, tecnologia e engenharia.
 
 ### O que tenho estudado recentenmente
 
-CRUD | Banco de Dados | Linguagem C | Python | Arquitetura e Design de Software
+C | Python 
 
 ### Contatos
 - Gmail : joaovieirab147@gmail.com
