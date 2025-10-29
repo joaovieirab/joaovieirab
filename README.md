@@ -20,7 +20,7 @@ Apaixonado por programação, tecnologia e engenharia.
 
 ### O que tenho estudado recentenmente
 
-C | Python 
+C | Python | Métodos Numéricos | MATLAB
 
 ### Contatos
 - Gmail : joaovieirab147@gmail.com
